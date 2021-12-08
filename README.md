@@ -1,4 +1,4 @@
-# todolist
+# todolist - Projeto basico para aplicar conceitos do VueJS
 
 ## Project setup
 ```
